@@ -1,7 +1,7 @@
 # Discord-Welcome-Bot
 
 As the title says, it's a simple discord-welcome-bot, very primitive in style. Built it to finish Global Hack Week Share (2022)'s challenge to build a discord bot with autocode.
-Built with my friend as a challenge. 
+Built it with my friend as a challenge. 
 <br></br>
 Part of the bot sends motivational texts (hence the name "Motivation Bot". This part was built by my partner "Ahmedsaed") and the other part welcomes new-comers.
 <br></br>
